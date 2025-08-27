@@ -234,7 +234,7 @@ async def v2_new(app, message, token, userid, hdr1, app_name, raw_text2, api_bas
                 f"├─ 📄 PDFs: {pdf_count}\n"
                 f"└─ 🔐 Encrypted: {encrypted_count}\n\n"
                 f"🚀 <b>Extracted by:</b> @{(await app.get_me()).username}\n\n"
-                f" <b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
+                f"<b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
                 f"<code>╾───• {BOT_TEXT} •───╼</code>"
             )
 
