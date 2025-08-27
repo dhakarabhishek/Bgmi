@@ -327,7 +327,7 @@ async def adda_command_handler(app, m):
                             f"📊 <b>CONTENT STATS</b>\n"
                             f"└─ 📁 Total Items: {total_items}\n\n"
                             f"🚀 <b>Extracted by:</b> {mention}\n\n"
-                            f" <b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
+                            f"<b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
                             f"<code>╾───• {BOT_TEXT} •───╼</code>"
                         )
 
