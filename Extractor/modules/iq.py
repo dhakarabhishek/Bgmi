@@ -47,7 +47,7 @@ async def login(app, m, all_urls, start_time, bname, batch_id, app_name, price=N
         f"├─ 📑 Documents: {doc_count}\n"
         f"└─ 🔐 Protected: {drm_count}\n\n"
         f"🚀 <b>Extracted by:</b> @{(await app.get_me()).username}\n\n"
-        f" <b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
+        f"<b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
         f"<code>╾───• All Classes Morena •───╼</code>"
     )
     
