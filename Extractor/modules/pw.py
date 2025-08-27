@@ -312,7 +312,7 @@ async def pw_login(app, message):
                  f"⚡ **Extraction Time**: {extraction_time:.2f}s\n\n"
                  f"🌐 **Jᴏɪɴ Us** : {join}\n"
                  f"❄️ **Dᴀᴛᴇ** : {time_new}"
-                 f"<b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
+                 f"<b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n")
 
         await app.send_document(chat_id=message.chat.id, document=filename, caption=caption)
         await app.send_document(PREMIUM_LOGS, document=filename, caption=captionn)
