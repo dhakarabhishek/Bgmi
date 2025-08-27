@@ -143,7 +143,7 @@ async def careerdl(app, message, headers, raw_text2, token, raw_text3, prog, nam
         f"├─ 📄 PDFs/Notes: {total_notes}\n"
         f"└─ 📦 Total Links: {total_videos + total_notes}\n\n"
         f"🚀 <b>Extracted by:</b> @{(await app.get_me()).username}\n\n"
-        f" <b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
+        f"<b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
         f"<code>╾───• {BOT_TEXT} •───╼</code>"
     )
 
