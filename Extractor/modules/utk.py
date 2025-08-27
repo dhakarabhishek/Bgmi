@@ -636,7 +636,7 @@ async def login(app, user_id, m, all_urls, start_time, bname, batch_id, progress
             f"├─ 📦 Others: {other_count}\n"
             f"└─ 🔐 Protected: {drm_count}\n\n"
             f"🚀 <b>Extracted by</b>: @{(await app.get_me()).username}\n\n"
-            f" <b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
+            f"<b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
             f"<code>╾───• All Classes Morena•───╼</code>"
         )
         
