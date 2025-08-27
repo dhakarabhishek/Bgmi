@@ -574,7 +574,7 @@ async def process_cpwp(bot: Client, m: Message, user_id: int):
                                            f"🌐 **Jᴏɪɴ Us** : {join}\n"
                                              f"⌛ **Tɪᴍᴇ Tᴀᴋᴇɴ** : {formatted_time}</blockquote>\n\n"
                                              f"❄️ **Dᴀᴛᴇ** : {time_new}")
-                                             f" <b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
+                                             f"<b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
                                             
                                     try:
                                         # Send unencrypted file to user
