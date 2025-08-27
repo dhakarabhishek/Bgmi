@@ -526,7 +526,7 @@ async def process_pwwp(bot: Client, m: Message, user_id: int):
                           f"🌐 **Jᴏɪɴ Us** : {join}\n"
                           f"⌛ **Tɪᴍᴇ Tᴀᴋᴇɴ** : {formatted_time}\n\n"
                           f"❄️ **Dᴀᴛᴇ** : {time_new}")
-                          f" <b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
+                          f"<b>For Txt uploading msg here @Final_piece or @chambalchat_bot:</b>\n"
                         
                 files = [f"{clean_file_name}.{ext}" for ext in ["txt", "zip", "json"]]
                 for file in files:
