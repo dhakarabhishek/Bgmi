@@ -7,7 +7,7 @@ API_ID = int(os.environ.get("API_ID", "24037760"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","dccc3070f1c12ab155011f14c3d6ae6a")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7790552367:AAFodmQmgDQbkPA-pdRqy-SMeIke3YAUSjM")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@MorenaTxt_bot")
 BOT_TEXT = "Downloader 10"
